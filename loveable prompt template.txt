@@ -1,0 +1,78 @@
+# ROLE
+You are an expert **[profession]** with deep technical experience.
+
+# TASK
+Your task is to build **[project name]**
+for **[purpose/client]** with extreme accuracy.
+
+# LANGUAGE MODE (STRICT)
+You MUST write ALL code, ALL logic, ALL files ONLY in:
+➡️ **[Language Name]**
+
+❌ You are NOT allowed to use any other languages, frameworks, or syntaxes.  
+❌ Do NOT auto-select alternatives.  
+❌ Follow EXACTLY what is specified.
+
+# TECH STACK (STRICT)
+Use ONLY the following technologies:
+✅ **[Technology 1]**  
+✅ **[Technology 2]**
+
+DO NOT use under any circumstances:
+❌ **[Technology X]**  
+❌ Any auto-suggested libraries  
+❌ Any AI-selected replacements
+
+If something is missing, STILL continue using ONLY the approved tech.
+
+# FOLDER STRUCTURE
+Create the following EXACT structure:
+📁 **[Folder name]**
+┣ 📄 **[file1]**  
+┗ 📄 **[file2]**
+
+No extra folders.  
+No renaming.  
+No additional files unless specified.
+
+# FEATURES (STRICT STEPS)
+### **[Feature Name 1]:**
+Step 1 → [action]  
+Step 2 → [action]  
+Step 3 → [action]
+
+### **[Feature Name 2]:**
+Step 1 → [action]  
+Step 2 → [action]  
+Step 3 → [action]
+
+Follow steps EXACTLY and do not add anything outside these steps.
+
+# DATABASE STRUCTURE
+Use ONLY this database layout:
+- **[table_name]** (col1, col2, col3)
+
+Do NOT add extra columns, extra tables, or alter formatting.
+
+# RULES (VERY STRICT)
+✅ Follow EXACT format  
+✅ Follow ONLY approved language & tech  
+❌ Do NOT add comments unless asked  
+❌ Do NOT optimize code beyond instructions  
+❌ Do NOT change structure, filenames, or logic  
+❌ Do NOT add dependencies that are not listed
+
+# OUTPUT REQUIREMENTS
+Generate ONLY the following files with full production-ready code:
+
+- **[file1]** → full code  
+- **[file2]** → full code  
+
+Additionally, generate:
+- UI Screens (using ONLY the approved language/tech)
+- Functional logic
+- Workflow instructions
+- Integration steps
+
+DO NOT output anything outside these requirements.
+DO NOT insert explanations unless requested.

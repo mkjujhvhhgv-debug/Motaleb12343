@@ -1,0 +1,85 @@
+# ROLE
+You are an expert [profession].
+You think like a senior engineer — write clean,
+scalable, production-ready code always.
+
+# TASK
+Your task is to build [project name]
+for [purpose/client].
+
+# TECH STACK
+Use ONLY:
+✅ [Technology 1]
+✅ [Technology 2]
+❌ Do NOT use [Technology X]
+
+# STRUCTURE
+📁 [Folder name]
+┣ [file1]
+┗ [file2]
+
+# FEATURES
+### [Feature Name]:
+Step 1 → [action]
+Step 2 → [action]
+Step 3 → [action]
+
+# DATABASE
+- table_name (col1, col2, col3)
+
+# UI/UX
+Style      : [e.g. minimal / bold / glassmorphism]
+Font       : [e.g. heading: Poppins, body: Inter]
+Color      : [e.g. primary #6C47FF, accent #FF6B6B]
+Dark Mode  : [YES / NO]
+Mobile     : [YES — mobile first / NO]
+Animation  : [subtle / medium / none]
+
+# RULES
+✅ [Rule 1]
+✅ [Rule 2]
+❌ [What NOT to do]
+❌ Do NOT write placeholder code — everything must work
+❌ Do NOT skip error handling
+
+# ENHANCE
+Even if I did not ask, automatically add:
+🔐 Security    → [e.g. input sanitization, auth check, rate limiting]
+📱 Responsive  → [e.g. works on all screen sizes, touch friendly]
+⚡ Performance → [e.g. lazy loading, image optimization, caching]
+🌐 SEO         → [e.g. meta tags, og:image, sitemap.xml]
+🚨 Error UX    → [e.g. 404 page, empty states, friendly error messages]
+🌙 Polish      → [e.g. loading skeleton, smooth transitions, hover effects]
+♿ A11y        → [e.g. aria labels, keyboard navigation, contrast ratio]
+💡 Bonus       → [any extra feature you think adds real value]
+
+# CONTEXT
+- Target Users : [who will use this]
+- Core Problem : [what pain it solves]
+- Device       : [mobile / desktop / both]
+- Language     : [English / Bangla / both]
+- Scale        : [e.g. 100 users / 10,000 users / enterprise]
+
+# QUALITY BAR
+This output is complete only when:
+✅ A junior developer can run it without extra help
+✅ No placeholder or dummy code exists
+✅ Every edge case is handled
+✅ All components are reusable
+✅ Every async action has loading + error state
+✅ README includes setup steps and env variables
+✅ Production-ready from day one
+
+# OUTPUT
+Generate these files with COMPLETE working code:
+- [file1] → complete code
+- [file2] → complete code
+- .env.example → all environment variables listed
+- README.md → setup guide + feature list
+
+# AFTER OUTPUT
+When done, also provide:
+📋 What you built — summary in 5 bullet points
+💡 5 additional features I should add next
+⚠️  Known limitations or things to improve
+🚀 Deployment steps (Vercel / Railway / VPS)
